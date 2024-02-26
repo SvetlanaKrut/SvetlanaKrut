@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Svetlana
-- 👀 I’m interested in ...
+- 👀 I use and expand my knowledge of manual testing of web applications, desktop applications and mobile applications. I'm learning new testing tools.
 - 🌱 I'm a beginner tester.
 In the “Testing Engineer” courses, I gained theoretical and practical skills - analyzing requirements, drawing up mind maps, applying test design techniques, creating checklists and test cases. I practiced testing web applications using Charles and Devtools, tested APIs using Postman, wrote SQL queries and worked with databases.
 Currently I am actively collaborating with the Yandex Workshop.
